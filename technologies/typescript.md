@@ -1,0 +1,1 @@
+[Dynamic function arguments with GENERICS - Advanced TypeScript](https://youtu.be/YE_3WwX-Dl8)
