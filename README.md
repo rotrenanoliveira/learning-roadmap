@@ -6,8 +6,7 @@ Este repositório contém o meu roadmap de aprendizado de tecnologia. [Tópicos 
 
 Categorizei como técnico os tópicos que vão além de aprender a programar. [Estudos concluídos](./technical.md).
 Atualmente estou estudando:
- - [Desenvolvimento de IA](https://app.rocketseat.com.br/journey/inteligencia-artificial/contents)
- - [Lógica de programação](https://app.rocketseat.com.br/journey/logica-de-programacao/contents)
+ - [Análise de Dados](https://app.rocketseat.com.br/journey/data-analytics/contents)
 
 
 ### Pessoal
@@ -21,4 +20,4 @@ Atualmente estou estudando:
 
 Tópicos que envolvem programação diretamente.[Estudos concluídos](./practice.md).
 Atualmente estou estudando:
- - [Nextjs + RBAC](https://app.rocketseat.com.br/journey/saa-s-next-js-rbac/contents)
+ - [Nextjs](https://app.rocketseat.com.br/journey/next-js/overview)
